@@ -9,7 +9,7 @@ I'm a first-year Computer Engineering student at the University of Ottawa, passi
 - 🌱 I’m learning web development, Python, and data structures
 - 🏆 Participated in **Ottahack 7** and contributed to front-end development and AI integration for our project, **LockSmith AI**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/agamsinghuottawa)
-- ⚡ Fun fact: I love espresso and coding sessions!
+- ⚡ Fun fact: My favorite time to code is at night
 
 ---
 
