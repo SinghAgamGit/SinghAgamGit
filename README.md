@@ -32,6 +32,6 @@ I'm a first-year Computer Engineering student at the University of Ottawa, passi
 ---
 
 ### 🧰 Tech Stack:
-- **Languages**: Python, HTML, CSS, JavaScript
+- **Languages**: Python, HTML, CSS, JavaScript, Java, C++
 - **Tools**: Git, VS Code, CLion, VS, Shell
-- **Frameworks**: Flask skills as seen on my project LockSmith AI
+- **Frameworks**: Flask for web dev
