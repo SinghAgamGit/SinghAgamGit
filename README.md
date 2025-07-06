@@ -9,8 +9,6 @@ I'm a first-year Computer Engineering student at the University of Ottawa, passi
 - 🌱 I’m learning web development, Python, and data structures
 - 🏆 Participated in **Ottahack 7** and contributed to front-end development and AI integration for our project, **LockSmith AI**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/agamsinghuottawa)
-- ⚡ Fun fact: My favorite time to code is at night
-
 ---
 
 ### 🌟 GitHub Stats:
@@ -33,5 +31,5 @@ I'm a first-year Computer Engineering student at the University of Ottawa, passi
 
 ### 🧰 Tech Stack:
 - **Languages**: Python,Java
-- **Tools**: Git, VS Code, CLion, VS, Shell, Terminal, Command line
+- **Tools**: Git, VS Code, Windows Terminal, Mac Terminal, CMD
 - **Frameworks**: Flask for web dev
