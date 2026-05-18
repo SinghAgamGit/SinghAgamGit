@@ -30,6 +30,5 @@ I'm a first-year Computer Engineering student at the University of Ottawa, passi
 ---
 
 ### 🧰 Tech Stack:
-- **Languages**: Python, Java, HTML, JavaScript, CSS
+- **Languages**: SQL, C++, Python, Java, JavaScript, HTML/CSS
 - **Tools**: Git, VS Code, Windows Terminal, Mac Terminal, CMD
-- **Frameworks**: Flask for web dev
