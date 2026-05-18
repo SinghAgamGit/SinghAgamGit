@@ -1,11 +1,11 @@
 # Hi there, I'm Agam👋
 
-I'm a first-year Computer Engineering student at the University of Ottawa, passionate about technology and software development. I enjoy exploring new technologies and applying them to solve real-world problems.
+I'm a second-year Computer Engineering student at the University of Ottawa, passionate about technology and software development. I enjoy exploring new technologies and applying them to solve real-world problems.
 
 ---
 
 ### 🚀 About Me:
-- 🔭 I’m currently working on my personal website: [https://singhagamgit.github.io](https://singhagamgit.github.io)
+- 🔭 I’m currently working on my personal website: [https://singhagam.ca](https://singhagam.ca)
 - 🌱 I’m learning web development, Python, and data structures
 - 🏆 Participated in **Ottahack 7** and contributed to front-end development and AI integration for our project, **LockSmith AI**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/agamsinghuottawa)
