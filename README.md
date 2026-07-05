@@ -1,34 +1,24 @@
-# Hi there, I'm Agam👋
+# Hi, I'm Agam 👋
 
-I'm a second-year Computer Engineering student at the University of Ottawa, passionate about technology and software development. I enjoy exploring new technologies and applying them to solve real-world problems.
+Computer Engineering student at the University of Ottawa (Class of 2029). I work on quality engineering, backend systems, and simulation software.
+
+### Currently
+- 🔧 Quality engineering intern at **Tata Consultancy Services**, building automated API test suites (Java, Cucumber, REST Assured) for enterprise payment systems
+- 🛰️ Software research assistant at uOttawa's **Computational Analysis and Research Group**, building UAV simulation and sensor-planning tools
+- 🎪 Co-President of **Hack the Hill**, leading a 40-person team to deliver a 400+ hacker event in September 2026
+
+### Featured work
+- **Paris Metro Network Analysis** — modeled 376 stations / 933 connections as a graph in Java, custom union-find + Kruskal's MST; accepted by the UVA Online Judge (Problem 11710)
+
+### Tech
+**Languages:** Java, Python, C++, SQL, JavaScript
+**Testing & QE:** Cucumber (BDD), REST Assured, Postman, TestNG
+**Tools:** Git, Jira, Confluence, MATLAB
+
+### Reach me
+[singhagam.ca](https://singhagam.ca) • [LinkedIn](https://www.linkedin.com/in/agamsinghuottawa) • contact@singhagam.ca
 
 ---
 
-### 🚀 About Me:
-- 🔭 I’m currently working on my personal website: [https://singhagam.ca](https://singhagam.ca)
-- 🌱 I’m learning web development, Python, and data structures
-- 🏆 Participated in **Ottahack 7** and contributed to front-end development and AI integration for our project, **LockSmith AI**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/agamsinghuottawa)
----
-
-### 🌟 GitHub Stats:
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SinghAgamGit&theme=dark&hide_border=true)
 ![Agam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SinghAgamGit&show_icons=true&hide_title=true&theme=dark&hide_border=true)
-
----
-
-### 🏆 Achievements:
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=SinghAgamGit&theme=darkhub&margin-w=15&margin-h=15)
-
----
-
-### 📊 Activity Overview:
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SinghAgamGit&layout=compact&theme=dark&hide_border=true)
-
----
-
-### 🧰 Tech Stack:
-- **Languages**: SQL, C++, Python, Java, JavaScript, HTML/CSS
-- **Tools**: Git, VS Code, Windows Terminal, Mac Terminal, CMD
