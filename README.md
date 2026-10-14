@@ -1,21 +1,27 @@
 # Hi, I'm Agam 👋
 
-Computer Engineering student at the University of Ottawa (Class of 2029). I work on quality engineering, backend systems, and simulation software.
+Computer Engineering co-op student at the University of Ottawa (Class of 2029). I work on backend services, quality engineering, and simulation software.
 
-### Currently
+### Now
 
-- 🔧 Quality engineering intern at **Tata Consultancy Services**, building automated API test suites (Java, Cucumber, REST Assured) for enterprise payment systems
-- 🛰️ Software research assistant at uOttawa's **Computational Analysis and Research Group**, building UAV simulation and sensor-planning tools
-- 🎪 Co-President of **Hack the Hill**, leading a 40-person team to deliver a 400+ hacker event in September 2026
+- Developer co-op at **CGI** (Toronto), building Spring services and designing OpenAPI contracts for a Canadian bank's payments platform
+- Co-President of **Hack the Hill**. Ran Hack the Hill III in September 2026 with a 40-person team and a $40K+ budget for 400+ hackers
+- Faculty of Engineering representative on the **University of Ottawa Students' Union** Board of Directors
+
+### Before
+
+- **Tata Consultancy Services**, QE intern (Jun to Sep 2026): BDD API test automation in Java with Cucumber, REST Assured, and TestNG, plus Kafka and REST validation for enterprise payment systems
+- **Computational Analysis and Research Group**, uOttawa (May to Sep 2026): built a UAV and counter-UAS simulation platform with React 19, Vite, FastAPI, Leaflet, and CesiumJS
 
 ### Featured work
 
-- **Paris Metro Network Analysis**: modeled 376 stations / 933 connections as a graph in Java, custom union-find + Kruskal's MST; accepted by the UVA Online Judge (Problem 11710)
+- **[Paris Metro Network Analysis](https://github.com/SinghAgamGit/Data-Structures-and-Algorithms-Programming-assignments)**: 376 stations and 933 connections modeled as a graph in Java, with custom union-find and Kruskal's MST. Accepted by the UVA Online Judge (Problem 11710)
 
 ### Tech
 
-- **Languages:** Java, Python, C++, SQL, JavaScript
-- **Testing & QE:** Cucumber (BDD), REST Assured, Postman, TestNG
+- **Languages:** Java, Python, C/C++, SQL, JavaScript
+- **Backend & web:** Spring, FastAPI, React, REST, OpenAPI, Kafka
+- **Testing & QE:** Cucumber (BDD), REST Assured, TestNG, Postman
 - **Tools:** Git, Jira, Confluence, MATLAB
 
 ### Reach me
